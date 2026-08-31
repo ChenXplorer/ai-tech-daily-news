@@ -1,6 +1,9 @@
 # Daily news data
 
-按 `YYYY/MM/YYYY-MM-DD.md` 的路径保存每日新闻。
+每天建立一个日期目录，每条新闻保存为独立 Markdown 文档：
 
-可以复制仓库根目录的 `DAILY_TEMPLATE.md` 作为每日文件模板。
+```text
+YYYY/MM/YYYY-MM-DD/HHMM-来源-新闻标题.md
+```
 
+可以复制仓库根目录的 `NEWS_TEMPLATE.md` 作为单条新闻模板。

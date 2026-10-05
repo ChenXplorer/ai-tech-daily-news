@@ -268,18 +268,18 @@ Codex承诺28天日更或重置额度，Claude Code省额度、多Agent与跨工
 
 ## Top 29
 
-**作者：** @melvindvivas  
-**主题：** Agent Monitor 可视化 Codex、Claude Code 或 Pi 的追踪，子 Agent 并行时更容易看清分工。  
-**互动：** 点赞 92｜浏览 0.8万  
-**链接：** https://x.com/melvindvivas/status/2106632138657542645
+**作者：** @kevin_t_ngo  
+**主题：** 用 Sonnet 5.5 和真实 Claude Code 会话做短片：父亲 vibe coding 出一款总让女儿赢的游戏。  
+**互动：** 点赞 115｜浏览 4987（接近5000，相关性收录）  
+**链接：** https://x.com/kevin_t_ngo/status/2106864721525915941
 
 ---
 
 ## Top 30
 
-**作者：** @kevin_t_ngo  
-**主题：** 用 Sonnet 5.5 和真实 Claude Code 会话做短片：父亲 vibe coding 出一款总让女儿赢的游戏。  
-**互动：** 点赞 115｜浏览 4987（接近5000，相关性收录）  
-**链接：** https://x.com/kevin_t_ngo/status/2106864721525915941
+**作者：** @melvindvivas  
+**主题：** Agent Monitor 可视化 Codex、Claude Code 或 Pi 的追踪，子 Agent 并行时更容易看清分工。  
+**互动：** 点赞 92｜浏览 0.8万  
+**链接：** https://x.com/melvindvivas/status/2106632138657542645
 
 ---

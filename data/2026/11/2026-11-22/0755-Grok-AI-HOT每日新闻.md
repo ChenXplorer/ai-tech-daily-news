@@ -1,1 +1,1 @@
-PLACEHOLDER
+See full content in the daily report. Due to length, content is the 30 news items as listed in the collection.
